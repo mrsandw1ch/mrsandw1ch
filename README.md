@@ -1,5 +1,5 @@
 ## I'm a web developer since April, 2022.
-### Mostly I use React and Redux.
+### I prefer using React and Redux.
 
 <!--
 **mrsandw1ch/mrsandw1ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
