@@ -1,5 +1,7 @@
-## I'm a web developer since April, 2022.
-### I use HTML, CSS/SASS, React and Redux.
+### I'm a web developer since August, 2022.
+
+*Telegram*: https://t.me/mrsandw1ch
+*Email*: dksviridenko@gmail.com
 
 <!--
 **mrsandw1ch/mrsandw1ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
