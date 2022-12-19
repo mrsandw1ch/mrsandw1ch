@@ -1,6 +1,6 @@
 ### I'm a web developer since August, 2022.
 
-*Telegram*: https://t.me/mrsandw1ch
+*Telegram*: https://t.me/mrsandw1ch  
 *Email*: dksviridenko@gmail.com
 
 <!--
